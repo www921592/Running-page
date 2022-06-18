@@ -2,13 +2,13 @@ module.exports = {
   pathPrefix: '/', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Kerpler921 Running Page',
-    siteUrl: 'https://yihong.run',
+    siteUrl: 'https://running-page-pied.vercel.app/',
     logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
     description: 'Personal site and blog',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://yihong.run/running',
+        url: 'https://running-page-pied.vercel.app/',
       },
       {
         name: 'About',
