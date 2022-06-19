@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://running-page-pied.vercel.app/sitemap/sitemap-index.xml
+Host: https://running-page-pied.vercel.app
