@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '/', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: 'Kerpler921 Running Page',
+    siteTitle: 'Kerpler的跑步生涯',
     siteUrl: 'https://running-page-pied.vercel.app/',
     logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
     description: 'Personal site and blog',
